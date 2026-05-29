@@ -1,0 +1,1 @@
+Previous data is truncated and new data is written
